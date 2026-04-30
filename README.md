@@ -1,4 +1,4 @@
-# calc_repeat_config_ratio_generic
+# calc-repeat-config-ratio
 
 A Python script for estimating the relative support of repeat-mediated alternative mitochondrial configurations from long-read BAM files using samtools output.
 
