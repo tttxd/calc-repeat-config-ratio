@@ -18,6 +18,7 @@ Clone this repository:
 git clone https://github.com/tttxd/calc-repeat-config-ratio.git
 cd calc-repeat-config-ratio
 
+
 Check dependencies:
 
 python3 --version
